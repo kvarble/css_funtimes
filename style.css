@@ -1,0 +1,183 @@
+body {
+    background-color: darkslategray;
+}
+.navbar {
+    background-color: darkslategray;
+}
+.main {
+    margin-top: 100px;
+}
+.title {
+/* font-family: 'Unica One', cursive;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Special Elite', cursive; */
+/* font-family: 'Cabin Sketch', cursive; */
+font-family: 'Fredericka the Great', cursive;
+/* font-family: 'Alegreya Sans SC', sans-serif; */
+font-size: 40px;
+margin-left: 185px;
+margin-top: 20px;
+letter-spacing: 4px;
+color: aliceblue;
+}
+.fab{
+color: aliceblue;
+margin-right: 10px;
+}
+.fa-github{
+margin-right: 200px;
+}
+.top {
+margin-top: 50px;
+}
+.topleftbox {
+height: 300px;
+/* width: 600px; */
+border: 3px solid cyan;
+color: cyan;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 24px;
+padding-top: 50px;
+font-family: 'Special Elite', cursive;
+/* display: inline-block; */
+}
+.topcenterbox {
+height: 300px;
+border: 3px solid deepskyblue;
+color: deepskyblue;
+font-family: 'Special Elite', cursive;
+padding-top: 50px;
+font-size: 20px;
+/* display: inline-block; */
+}
+
+.toprightbox {
+height: 300px;
+border: 3px solid royalblue;
+color: royalblue;
+font-family: 'Special Elite', cursive;
+padding-top: 20px;
+font-size: 20px;
+/* display: inline-block; */
+}
+.centerleftbox {
+height: 300px;
+border: 3px solid palegreen;
+color: palegreen;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+/* display: inline-block;     */
+}
+.centercenterbox {
+height: 300px;
+border: 3px solid paleturquoise;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+color: paleturquoise;
+/* display: inline-block;     */
+}
+.centerrightbox {
+height: 300px;
+border: 3px solid darkorchid;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+color: darkorchid;
+/* display: inline-block;     */
+}
+.bottomleftbox {
+height: 300px;
+border: 3px solid yellow;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+color: yellow;
+/* display: inline-block;     */
+}
+.bottomcenterbox {
+height: 300px;
+border: 3px solid coral;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+color: coral;
+/* display: inline-block;     */
+}
+.bottomrightbox {
+height: 300px;
+border: 3px solid mediumvioletred;
+font-family: 'Special Elite', cursive;
+font-size: 18px;
+padding-top: 50px;
+color: mediumvioletred;
+/* display: inline-block;     */
+}
+.link-one {
+    font-size: 24px;
+    color: palegreen;
+}
+.link-one:hover {
+    text-decoration: underline;
+    color: palegreen;
+}
+.link-two {
+    font-size: 24px;
+    color: paleturquoise;
+}
+.link-two:hover {
+    text-decoration: underline;
+    color: paleturquoise;
+}
+.link-three {
+    font-size: 24px;
+    color: darkorchid;
+}
+.link-three:hover {
+    text-decoration: underline;
+    color: darkorchid;
+}
+.link-four {
+    font-size: 24px;
+    color: yellow;
+}
+.link-four:hover {
+    text-decoration: underline;
+    color: yellow;
+}
+.link-five {
+    font-size: 24px;
+    color: coral;
+}
+.link-five:hover {
+    text-decoration: underline;
+    color: coral;
+}
+.link-six {
+    font-size: 24px;
+    color: mediumvioletred;
+}
+.link-six:hover {
+    text-decoration: underline;
+    color: mediumvioletred;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslategray;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    border-top: 1px solid aliceblue;
+    padding-top: 10px;
+}
+.fas {
+color: royalblue;
+margin-left: 65px;
+}
+.bottom {
+    margin-bottom: 50px;
+}
